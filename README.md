@@ -1,12 +1,4 @@
-### 👋 **Hi, I'm Gobi**
-
-I am studying **Computer Science and Engineering** and have experience working on projects using different programming languages and tools. I am constantly learning about computers beyond coding to become an **indispensable developer**.
-
-I have mostly worked in teams of 3-5 people to build web and app services. My collaboration experiences taught me the **significance of communication and documentation**, alongside technical skills.
-
-
-
-
+## 👋 **Hi, I'm Gobi**
 
 🛠️ **Main Stacks**
 
