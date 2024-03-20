@@ -8,5 +8,3 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=yellow) &nbsp; 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black) &nbsp; 
 ![Github](https://img.shields.io/badge/Github-%23EE4C2C.svg?style=for-the-badge&logo=Github&logoColor=white&color=green) &nbsp; 
-
-![Gobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJeongOh&show_icons=true&theme=vue&count_private=true)
